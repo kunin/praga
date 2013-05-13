@@ -1,0 +1,19 @@
+/* ----- .block {
+background: none; 
+filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='pngtest.png', sizingMethod='crop');
+}
+
+.png {
+behavior: url(iepngfix.htc);
+} ----- */
+
+.main-ins-c { background-image: none; }
+.left-column { overflow: hidden; }
+.title { background-image: none; float: none; padding: 0; text-align: center; width: 621px; }  
+.title .title-r { background-image: none; float: none; padding: 0; text-align: center; }
+.slider1 .frame1 { display: none; }
+.slider1Back { background-image: none; }
+
+.desk-block { text-align: center; }
+.desk-block a { text-indent: 0; background-image: none; text-align: center; margin-bottom: 30px; color: #fff; font-size: 15px; }
+.navigation a { text-indent: 0; background-image: none; color: #fff; font-size: 15px; }
